@@ -1,9 +1,9 @@
 const siteMeta = {
-  title: "Astro Theme Cactus",
-  description: "An opinionated starter theme for Astro",
-  lang: "en-GB",
-  ogLocale: "en_GB",
-  githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
+  title: "cyamy.me",
+  description: "",
+  lang: "ja",
+  ogLocale: "ja",
+  githubUrl: "https://github.com/cyamy",
   themeColorLight: "#fafafa",
   themeColorDark: "#1d1f21",
 }
